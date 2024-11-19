@@ -13,3 +13,4 @@
 - [1. 前端網頁基本概念](http://mirdex.github.io/HTML_20241114/1.%20前端網頁基礎概念.slides.html)
 - [2. 開發環境與html簡介](http://mirdex.github.io/HTML_20241114/2.%20開發環境與html簡介.slides.html)
 - [3. 文字相關的標籤](http://mirdex.github.io/HTML_20241114/3.%20文字相關的標籤.slides.html)
+- [4. 連結](http://mirdex.github.io/HTML_20241114/4.%20連結.slides.html)
