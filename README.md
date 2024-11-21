@@ -17,3 +17,4 @@
 - [5. 圖像](http://mirdex.github.io/HTML_20241114/5.%20圖像.slides.html)
 - [6. 表格](http://mirdex.github.io/HTML_20241114/6.%20表格_Q.slides.html)
 - [7. 其他標籤](http://mirdex.github.io/HTML_20241114/7.%20其他標籤.slides.html)
+- [8. CSS簡介](http://mirdex.github.io/HTML_20241114/8.%20CSS簡介.slides.html)
